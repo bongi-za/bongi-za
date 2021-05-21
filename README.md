@@ -1,4 +1,6 @@
 ### Hi there 👋
 
-<This is the repository for my website, deployed with Hugo and cactus theme
+<I'm Byron, a PhD student in Biomechanics at the Univeristy of Pretoria. 
+
+I'm interested in stats, machine learning and building websites using blogdown
 -->
