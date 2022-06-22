@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-<I'm Byron, a PhD student in Biomechanics at the Univeristy of Pretoria. 
-
-I'm interested in stats, machine learning and building websites using blogdown
+<going in for stats, machine learning, R and python. Bit of this, bit of that really
 -->
